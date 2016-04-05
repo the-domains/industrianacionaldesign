@@ -1,7 +1,7 @@
 name: industrianacionaldesign
 favicon: null
-layout_spectrum: 0.85963
-typography_spectrum: 0.67865
+layout_spectrum: 0.75108
+typography_spectrum: 0.15406
 title: WELCOME TO THE REAL DESIGN
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#4e9992'
-    - '#5e432e'
-    - '#0f1314'
-    - '#ca937f'
-    - '#c6dae0'
-  brandStrength: 0.75
-  lightness: 0.637309157056734
-  saturation: 0.625
+    - '#ffffff'
+    - '#abacb0'
+    - '#4e4f51'
+    - '#110907'
+    - '#fac100'
+  brandStrength: 0.125
+  lightness: 0.6875
+  saturation: 0.25
   rhythmicContrast: 0.32615517848171294
 purpose: []
